@@ -3,11 +3,11 @@
 ![start_page_with task](https://github.com/user-attachments/assets/318b2bf5-e8e6-4fd7-a250-47a39737e788)
 
 ## Details about the Code
-**Import Module**: Allows user to select files and import them. Creates a Spreadsheet with the Relevant data on the Summary tab. For mode detail [go to](Import/README.md)
+**Import Module**: Allows user to select files and import them. Creates a Spreadsheet with the Relevant data on the Summary tab. For more detail [go to](Import/README.md)
 
 **Report Module**: According to the dropdown selection transfers data to region tab and creates a Report for the Regional Manager and Top Management. For more details [go to](Report/README.md)
 
-**Admin Module**: Has two Sub procedures (Entry and Exit Point) which are called in all sub procedures responsible ensuring that the code is always run smoothly.
+**Admin Module**: Has two Sub procedures (Entry and Exit Point) which are called in all sub procedures responsible ensuring that the code always runs smoothly.
 
 
 ## Overview
