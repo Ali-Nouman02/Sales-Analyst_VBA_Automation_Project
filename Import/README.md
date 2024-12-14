@@ -16,6 +16,7 @@ The Import Module streamlines the process of importing and summarizing sales and
 
 3. **Task Tracking**:  
    - Updates the **Start Page** under "Tasks Completed" to indicate successful data import.
+   - "Data imported for: CompanyId , Company Id"
 ![task completion confirmation](https://github.com/user-attachments/assets/234a8f38-75f9-44b4-9946-441262463ce4)
 ---
 
