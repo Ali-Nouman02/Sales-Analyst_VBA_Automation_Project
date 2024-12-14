@@ -1,7 +1,5 @@
 # Sales-Analyst_VBA_Automation_Project
 
-#  Ali Textiles & Co.
-
 ![start_page_with task](https://github.com/user-attachments/assets/318b2bf5-e8e6-4fd7-a250-47a39737e788)
 
 ## Overview
@@ -25,7 +23,6 @@ At the end of each month, you will receive detailed sales and customer data from
 
 3. **CSV Generation**:
    - Enable users to generate CSV files for easy uploading of data to the central database.
-
 ---
 
 ## Details about the Code
@@ -34,11 +31,4 @@ At the end of each month, you will receive detailed sales and customer data from
 **Report Module**: According to the dropdown selection transfers data to region tab and creates a Report for the Regional Manager and Top Management. For more details go to
 
 **Admin Module**: Has two Sub procedures (Entry and Exit Point) which are called in all sub procedures responsible ensuring that the code is always run smoothly.
-
-
----
-
-
-
----
 
