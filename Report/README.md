@@ -1,6 +1,5 @@
 # Report Module 
 
-## Overview
 The Report Module processes and summarizes regional sales data based on user selection. It provides region-specific insights, generates tailored workbooks for regional managers and top management, and exports data as a CSV file for further use.
 ---
 
