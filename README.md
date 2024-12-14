@@ -30,7 +30,9 @@ At the end of each month, you will receive detailed sales and customer data from
 
 ## Details about the Code
 **Import Module**: Allows user to select files and import them. Creates a Spreadsheet with the Relevant data on the Summary tab. For mode detail go to [go to](Import/README.md)
+
 **Report Module**: According to the dropdown selection transfers data to region tab and creates a Report for the Regional Manager and Top Management. For more details go to
+
 **Admin Module**: Has two Sub procedures (Entry and Exit Point) which are called in all sub procedures responsible ensuring that the code is always run smoothly.
 
 
