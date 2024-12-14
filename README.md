@@ -1,6 +1,6 @@
 # Sales-Analyst_VBA_Automation_Project
 
-# Sales Reporting System - Ali Textiles & Co.
+#  Ali Textiles & Co.
 
 ![start_page_with task](https://github.com/user-attachments/assets/318b2bf5-e8e6-4fd7-a250-47a39737e788)
 
