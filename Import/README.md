@@ -4,7 +4,7 @@
 The Import Module streamlines the process of importing and summarizing sales and customer data from the four regional companies.
 
 
-## Features
+## What the Code does
 1. **File Selection Prompt**:  
    - Allows the user to select Excel files sent by the four companies.
      ![file_prompt](https://github.com/user-attachments/assets/9829c18b-a7d7-45ab-82ed-c159a9a593a8)
