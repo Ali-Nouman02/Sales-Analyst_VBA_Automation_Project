@@ -1,40 +1,32 @@
-# Sales-Analyst_VBA_Automation_Project
+# Import Module 
 
-#  Ali Textiles & Co.
+## Description
+The Import Module streamlines the process of importing and summarizing sales and customer data from the four regional companies.
 
-![start_page_with task](https://github.com/user-attachments/assets/318b2bf5-e8e6-4fd7-a250-47a39737e788)
-
-## Overview
-Ali Textiles & Co. owns 4 companies:  
-- **2 in the USA**  
-- **2 in Europe**  
-The **Sales Analyst** at Ali Textiles & Co., has the responsibility to process and report sales and customer data across regions.
 ---
+
+## Features
+1. **File Selection Prompt**:  
+   - Allows the user to select Excel files sent by the four companies.  
+
+2. **Data Extraction**:  
+   - Extracts only the relevant data from the imported files.  
+   - Transfers the extracted data to the **Summary tab** for analysis.  
+
+3. **Task Tracking**:  
+   - Updates the **Start Page** under "Tasks Completed" to indicate successful data import.
+
+---
+
 ## Workflow
-### Monthly Data Collection
-At the end of each month, you will receive detailed sales and customer data from each of the four companies.
-
-### Responsibilities
-1. **Interactive Regional Reports**:
-   - Create pivot-based interactive reports for:
-     - **USA Regional Manager**
-     - **Europe Regional Manager**
-
-2. **Regional Overview for Top Management**:
-   - Generate a **hard-coded summary** of sales and customer data for top-level decision-makers.
-
-3. **CSV Generation**:
-   - Enable users to generate CSV files for easy uploading of data to the central database.
+1. User is prompted to select Excel files containing company data.  
+2. Relevant data is extracted and transferred to the **Summary tab**.  
+3. The module logs the completion of tasks on the **Start Page** for transparency.
 
 ---
 
-## Details about the Modules
-**Import Module**: 
-
-
----
-
-
-
----
+## Benefits
+- Simplifies the data import process.  
+- Ensures only critical data is extracted for reporting.  
+- Provides a clear log of completed tasks for tracking progress.
 
