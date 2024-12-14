@@ -1,6 +1,7 @@
 # Report Module 
 
 The Report Module processes and summarizes regional sales data based on user selection. It provides region-specific insights, generates tailored workbooks for regional managers and top management, and exports data as a CSV file for further use.
+
 ---
 
 ## What the Code does: 
@@ -77,21 +78,6 @@ The **Region tab** contains three pivot tables providing detailed insights:
   Example: `M_201810America`  
 - **CSV File**: `summary.csv` (saved in the current directory).
 
----
 
-## Attachments
-- **Code**:  
-  Include the VBA code used for the Report Module.
-
-- **Pictures**:  
-  Add screenshots of the generated pivot tables, workbooks, and CSV outputs.
-
----
-
-## Benefits
-- Streamlined region-specific reporting.  
-- Tailored workbooks for different audiences (Regional Managers and Top Management).  
-- Easy CSV export for database uploads.  
-- Automatic task tracking for better transparency.
 
 
