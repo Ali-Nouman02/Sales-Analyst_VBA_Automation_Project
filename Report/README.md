@@ -27,8 +27,9 @@ The **Region tab** contains three pivot tables providing detailed insights:
 1. **Regional Manager Workbook**:  
    - Transfers the first two pivot tables to a new workbook.  
    - File is named in the format: `RM_YEAR_MONTH_REGION` (e.g., `RM_201810America`).  
-   - Saved in the current directory.  
-[RM_201810America.xlsx](https://github.com/user-attachments/files/18136787/RM_201810America.xlsx)
+   - Saved in the current directory.
+![rm_report](https://github.com/user-attachments/assets/386bfe40-d31e-4fe2-817e-b42cfe275938)
+
 2. **Top Management Workbook**:  
    - Transfers the third pivot table to a separate workbook.  
    - The workbook is **hardcoded** (contains no formulas).  
