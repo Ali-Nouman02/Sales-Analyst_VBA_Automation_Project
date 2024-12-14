@@ -15,8 +15,7 @@ Ali Textiles & Co. owns 4 companies:
 - **2 in the USA**  
 - **2 in Europe**  
 The **Sales Analyst** at Ali Textiles & Co., has the responsibility to process and report sales and customer data across regions.
----
-## Workflow
+
 ### Monthly Data Collection
 At the end of each month, you will receive detailed sales and customer data from each of the four companies.
 
@@ -31,4 +30,4 @@ At the end of each month, you will receive detailed sales and customer data from
 
 3. **CSV Generation**:
    - Enable users to generate CSV files for easy uploading of data to the central database.
----
+
